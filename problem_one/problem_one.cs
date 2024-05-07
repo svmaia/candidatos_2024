@@ -24,7 +24,9 @@ class Result
 
     public static int birthdayCakeCandles(List<int> candles)
     {
-        
+        // foreach(var candle in candles){
+
+        // }
 
     }
 
